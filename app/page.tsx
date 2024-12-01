@@ -43,7 +43,7 @@ export default function LandingPage() {
               </div>
               <div className="space-x-4">
                 <Button>Get Started</Button>
-                <Button variant="outline">Learn More</Button>
+                {/* <Button variant="outline">Learn More</Button> */}
               </div>
             </div>
             <div className="w-full md:w-1/2  flex justify-center">
